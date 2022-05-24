@@ -4,7 +4,7 @@
 
 (https://t.me/aswellsmith)
 
-(mailto:dantereshenko69@gmail.com)
+(dantereshenko69@gmail.com)
 
 (https://github.com/SmDancho)
 
