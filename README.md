@@ -23,25 +23,24 @@
 - Bootstrap
 - CSS animation
 
-#### Code examples
+name: Todoist Readme
 
-```JavaScript
-
-function countCats( matrix ) {
-  let count = 0
-  for (let i = 0; i < matrix.length; i++) {
-    let c = matrix[i];
-      for (let j = 0; j < c.length; j++) {
-          if (c[j] === '^^') {
-            count++
-            
-          }
-      }
-  }
-  return count
-  
-}
-```
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every minute
+    - cron: "* * * * *"
+      
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: abhisheknaiidu/todoist-readme@master
+        with:
+          TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
+          PREMIUM: ""
 
 #### Experience
 pulse - pet progect (html,js/jquery,sass,gulp)- https://github.com/SmDancho/pulse
