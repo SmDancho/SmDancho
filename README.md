@@ -29,7 +29,9 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SmDancho)](https://git.io/streak-stats)
+
 #### Experience
+
 ##Pulse ![https://github.com/SmDancho/pulse](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 
 ##Photograph's portfolio website ![https://github.com/SmDancho/photograph-s_Portfolio/tree/source-code](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
@@ -41,6 +43,7 @@
 #### 📚 Education
 <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white">
 <img src ="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
+
 #### English
 
 ##B1
