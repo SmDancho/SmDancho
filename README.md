@@ -14,14 +14,8 @@
     My goal is a become front-end developer . The main goal is improve my js skills
     and quality of code . 
     Now i can make websites using html, js and css/sass 
-#### Skills
-- js
-- HTML/CSS
-- SASS/SCSS + gulp
-- BEM
-- SVG
-- Bootstrap
-- CSS animation
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmDancho)](https://github.com/anuraghazra/github-readme-stats)
 
