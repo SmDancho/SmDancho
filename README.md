@@ -23,24 +23,9 @@
 - Bootstrap
 - CSS animation
 
-name: Todoist Readme
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?SmDancho=anuraghazra&theme=dark&show_icons=true)
 
-on:
-  workflow_dispatch:
-  schedule:
-    # Runs every minute
-    - cron: "* * * * *"
-      
-jobs:
-  update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: abhisheknaiidu/todoist-readme@master
-        with:
-          TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
-          PREMIUM: ""
+
 
 #### Experience
 pulse - pet progect (html,js/jquery,sass,gulp)- https://github.com/SmDancho/pulse
