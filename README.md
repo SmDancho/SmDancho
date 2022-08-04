@@ -2,13 +2,16 @@
 
 #### 📱 Contacts
 
-![https://t.me/aswellsmith](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-![dantereshenko69@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-![https://github.com/SmDancho](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aswellsmith)
 
-![https://www.codewars.com/users/SmDancho](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dantereshenko69@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SmDancho)
+
+[![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/SmDancho)
+
 
 
 
@@ -29,14 +32,17 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SmDancho)](https://git.io/streak-stats)
-
 #### Experience
 
-##Pulse ![https://github.com/SmDancho/pulse](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
+##Pulse [![pulse](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://github.com/SmDancho/pulse)
 
-##Photograph's portfolio website ![https://github.com/SmDancho/photograph-s_Portfolio/tree/source-code](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
+##Photograph's portfolio website [![Photograph's portfolio website](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://github.com/SmDancho/photograph-s_Portfolio/tree/source-code)
 
-##uber clone ![https://github.com/SmDancho/uber](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
+##Uber Clone [![Uber](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://github.com/SmDancho/uber)
+
+
+
+
 
 
 
@@ -46,5 +52,4 @@
 
 #### English
 
-##B1
-
+## B1
