@@ -33,16 +33,14 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SmDancho)](https://git.io/streak-stats)
 #### Experience
+##Pulse 
+[![pulse](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://github.com/SmDancho/pulse)
 
-##Pulse [![pulse](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://github.com/SmDancho/pulse)
+##Photograph's portfolio website 
+[![Photograph's portfolio website](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://github.com/SmDancho/photograph-s_Portfolio/tree/source-code)
 
-##Photograph's portfolio website [![Photograph's portfolio website](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://github.com/SmDancho/photograph-s_Portfolio/tree/source-code)
-
-##Uber Clone [![Uber](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://github.com/SmDancho/uber)
-
-
-
-
+##Uber Clone 
+[![Uber](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://github.com/SmDancho/uber)
 
 
 
