@@ -1,4 +1,4 @@
-# Hello, 🤜🤛 i'm Danil 
+# Hello, 🤜🤛 i'm Dan
 
 #### 📱 Contacts
 
