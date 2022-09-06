@@ -1,4 +1,4 @@
-# Hello, 🤜🤛 i'm Danil Tereshenko 
+# Hello, 🤜🤛 i'm Danil 
 
 #### 📱 Contacts
 
