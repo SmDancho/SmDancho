@@ -35,14 +35,12 @@
 
 #### Experience
 
-Pulse 
-[![pulse](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://github.com/SmDancho/pulse)
+Moentum 
+[![momentum ](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://smdancho.github.io/momentum/)
 
 Photograph's portfolio website 
 [![Photograph's portfolio website](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://github.com/SmDancho/photograph-s_Portfolio/tree/source-code)
 
-Uber Clone 
-[![Uber](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://github.com/SmDancho/uber)
 
 
 
