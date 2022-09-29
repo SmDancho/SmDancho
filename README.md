@@ -36,6 +36,7 @@
 #### Experience
 
 Moentum 
+repo:https://github.com/SmDancho/momentum
 [![momentum ](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://smdancho.github.io/momentum/)
 
 Photograph's portfolio website 
