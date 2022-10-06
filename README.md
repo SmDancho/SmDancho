@@ -41,6 +41,8 @@ repo:https://github.com/SmDancho/momentum
 
 Photograph's portfolio website 
 [![Photograph's portfolio website](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://github.com/SmDancho/photograph-s_Portfolio/tree/source-code)
+## small futures i can implement on your web silte/app
+   repo: https://github.com/SmDancho/SamallFutures
 
 
 
