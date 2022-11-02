@@ -24,16 +24,8 @@
     <li>👨‍ Convert coffe to code</li>
    </ul>
 
-#### 📊 skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmDancho&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmDancho&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SmDancho)](https://git.io/streak-stats)
-
 #### Experience
+Now working on: https://github.com/SmDancho/reactReacipes
 
 Moentum 
 repo:https://github.com/SmDancho/momentum
@@ -50,6 +42,17 @@ Photograph's portfolio website
 #### 📚 Education
 <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white">
 <img src ="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
+
+#### 📊 skills
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmDancho&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmDancho&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SmDancho)](https://git.io/streak-stats)
+
+
 
 #### English
 
