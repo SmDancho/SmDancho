@@ -25,8 +25,9 @@
    </ul>
 
 #### Experience
-recipe search app: [https://github.com/SmDancho/reactReacipes](https://sunny-taffy-845009.netlify.app/)
+recipe search app: [https://github.com/SmDancho/reactReacipes](https://github.com/SmDancho/recipe-agregato)
 
+see website: https://sunny-taffy-845009.netlify.app/ 
 Moentum 
 repo:https://github.com/SmDancho/momentum
 [![momentum ](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://smdancho.github.io/momentum/)
