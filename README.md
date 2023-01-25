@@ -19,8 +19,8 @@
 
 #### About me
    <ul>
-    <li>📝 Now learn React JS </li>
-    <li>🌐 Goal is become web developer in shortest time</li>
+    <li>📝 Now looking for a job</li>
+    <li>🌐 Goal is become senior web developer</li>
     <li>👨‍ Convert coffe to code</li>
    </ul>
 
