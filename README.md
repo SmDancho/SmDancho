@@ -25,22 +25,7 @@
    </ul>
 
 #### Experience
-recipe search app: [https://github.com/SmDancho/reactReacipes](https://github.com/SmDancho/recipe-agregato) 
-
-see website: https://sunny-taffy-845009.netlify.app/ <br>
-Moentum 
-repo:https://github.com/SmDancho/momentum
-[![momentum ](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://smdancho.github.io/momentum/)
-
-Photograph's portfolio website 
-[![Photograph's portfolio website](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://github.com/SmDancho/photograph-s_Portfolio/tree/source-code)
-
-
-
-js slider - [![slider](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://smdancho.github.io/TravelSlider/travelSlider/)
-repo - https://github.com/SmDancho/TravelSlider
-
-
+https://markeradaptation.vercel.app/
 ## small futures i can implement on your web silte/app
    repo: https://github.com/SmDancho/SamallFutures
    
