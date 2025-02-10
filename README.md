@@ -24,14 +24,6 @@
     <li>👨‍ Convert coffe to code</li>
    </ul>
 
-#### Experience
-https://markeradaptation.vercel.app/
-## small futures i can implement on your web silte/app
-   repo: https://github.com/SmDancho/SamallFutures
-   
-
-
-
 
 #### 📚 Education
 <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white">
